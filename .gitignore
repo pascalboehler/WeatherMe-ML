@@ -1,2 +1,7 @@
+# Mac OS specific
+.DS_STORE
+.trashes
+
+# Project files
 .vscode
 .ipynb_checkpoints
